@@ -18,11 +18,6 @@
 
   <img align="left" alt="mgsweet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mgsweet&show_icons=true&hide_border=true" />
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgsweet)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
