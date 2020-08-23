@@ -1,8 +1,8 @@
-### Hi there, I'm Aaron - aka [mgsweet][website] 👋
+## Hi there, I'm Aaron - aka [mgsweet][website] 👋
 
 ### I'm a Master Student and Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning cloud computing, distributed computing and IoT.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Get higher WAM and become a better programmer!
 - ⚡ Fun fact: I am practicing touch typing at my 24 years old!
@@ -15,12 +15,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="mgsweet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="mgsweet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mgsweet&show_icons=true&hide_border=true" />
 
 [website]: https://mgsweet.com/
 [linkedin]: https://www.linkedin.com/in/mgsweet/
