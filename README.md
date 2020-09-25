@@ -3,7 +3,7 @@
 ### I'm a Master Student and Developer!
 
 - 🌱 I’m currently learning cloud computing, distributed computing and IoT.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Get higher WAM and become a better programmer!
 - ⚡ Fun fact: I am practicing [touch typing](https://www.keybr.com/profile/752nolk) at my 24 years old!
 
