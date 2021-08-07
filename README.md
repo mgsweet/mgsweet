@@ -2,7 +2,7 @@
 
 ### I'm a Software Developer!
 
-- 🌱 I’m currently working as a backend developer at ByteDance.
+- 🌱 I’m currently working as a backend developer.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Become a better programmer!
 - ⚡ Fun fact: I am practicing [touch typing](https://www.keybr.com/profile/752nolk) at my 24 years old!
