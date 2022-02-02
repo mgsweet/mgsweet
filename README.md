@@ -1,4 +1,4 @@
-## Hi there, I'm Aaron - aka [mgsweet][website] 👋
+## Hi there, I'm Aaron - aka [mgsweet](https://mgsweet.com/) 👋
 
 ### I'm a Software Developer!
 
