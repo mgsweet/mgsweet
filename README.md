@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working as a backend developer.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Be a pragmatic programmer!
+- 🥅 2022 Goals: Learn more, earn more and be a pragmatic programmer!
 - ⚡ Fun fact: I am practicing [touch typing](https://www.keybr.com/profile/752nolk) at my 24 years old!
 
 ### Connect with me:
