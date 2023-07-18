@@ -1,11 +1,8 @@
 ## Hi there, I'm Aaron - aka [mgsweet](https://mgsweet.com/) 👋
 
-### I'm a Software Developer!
-
-- 🌱 I’m currently working as a backend developer.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Learn more, earn more and be a pragmatic programmer!
-- ⚡ Fun fact: I am practicing [touch typing](https://www.keybr.com/profile/752nolk) at my 24 years old!
+### My Github
+As you can see, I seldom do any contribution these days. Busy and lazy...
+- 🥅 2023 Goals: Earn more XD!
 
 ### Connect with me:
 
